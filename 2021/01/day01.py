@@ -12,7 +12,7 @@ from sys import stderr
 
 __author__ = "John P Lettman"
 __email__ = "the@johnlettman.com"
-__license__ = "GPL"
+__license__ = "MIT"
 
 CHALLENGE = """
 As the submarine drops below the surface of the ocean, it automatically performs
